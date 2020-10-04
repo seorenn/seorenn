@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [러스트의 열거형(Enums) 살펴보기](https://seorenn.tistory.com/148)
 - [오늘도 온다 사기메일](https://seorenn.tistory.com/154)
 - [Swift 5.3에서는 뭐가 바뀌었을까?](https://seorenn.tistory.com/118)
 - [Swift System 오픈소스화 소식](https://seorenn.tistory.com/152)
@@ -12,5 +13,4 @@
 - [러스트의 가변성(Mutability) 이야기](https://seorenn.tistory.com/145)
 - [애플 앱 심사 지침 업데이트](https://seorenn.tistory.com/147)
 - [러스트의 미래는 어떻게 될까?](https://seorenn.tistory.com/146)
-- [러스트의 구조체 살펴보기](https://seorenn.tistory.com/144)
 <!-- BLOG-POST-LIST:END -->
