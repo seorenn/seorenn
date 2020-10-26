@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust로 객체지향 프로그래밍 흉내내기](https://seorenn.tistory.com/161)
 - [Doom Emacs에서 Python 개발 환경 설정하기](https://seorenn.tistory.com/160)
 - [macOS에서 SVG 파일을 PNG로 변경하기](https://seorenn.tistory.com/159)
 - [Org Mode에서 노션(Notion)으로 갈아타기](https://seorenn.tistory.com/157)
@@ -12,5 +13,4 @@
 - [Python 3.9 변경사항 간단 정리](https://seorenn.tistory.com/155)
 - [러스트의 열거형(Enums) 살펴보기](https://seorenn.tistory.com/148)
 - [오늘도 온다 사기메일](https://seorenn.tistory.com/154)
-- [Swift 5.3에서는 뭐가 바뀌었을까?](https://seorenn.tistory.com/118)
 <!-- BLOG-POST-LIST:END -->
