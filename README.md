@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust의 Generics 맛보기](https://seorenn.tistory.com/163)
 - [디렉터리 및 파일 크기 조회 도구 du](https://seorenn.tistory.com/162)
 - [Rust로 객체지향 프로그래밍 흉내내기](https://seorenn.tistory.com/161)
 - [Doom Emacs에서 Python 개발 환경 설정하기](https://seorenn.tistory.com/160)
@@ -12,5 +13,4 @@
 - [Python Exceptions 간략 정리](https://seorenn.tistory.com/153)
 - [10월 13일 애플 이벤트 소식](https://seorenn.tistory.com/156)
 - [Python 3.9 변경사항 간단 정리](https://seorenn.tistory.com/155)
-- [러스트의 열거형(Enums) 살펴보기](https://seorenn.tistory.com/148)
 <!-- BLOG-POST-LIST:END -->
