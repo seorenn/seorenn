@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [드디어 애플 실리콘 이벤트가 열리...나?](https://seorenn.tistory.com/164)
 - [Rust의 Generics 맛보기](https://seorenn.tistory.com/163)
 - [디렉터리 및 파일 크기 조회 도구 du](https://seorenn.tistory.com/162)
 - [Rust로 객체지향 프로그래밍 흉내내기](https://seorenn.tistory.com/161)
@@ -12,5 +13,4 @@
 - [Flutter에서 애플 앱스토어 업로드 시 최소 버전 표기 문제](https://seorenn.tistory.com/158)
 - [Python Exceptions 간략 정리](https://seorenn.tistory.com/153)
 - [10월 13일 애플 이벤트 소식](https://seorenn.tistory.com/156)
-- [Python 3.9 변경사항 간단 정리](https://seorenn.tistory.com/155)
 <!-- BLOG-POST-LIST:END -->
