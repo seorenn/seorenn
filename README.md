@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI macOS 앱에서 타이틀 바와 툴바가 통합된 윈도우 구현하기](https://seorenn.tistory.com/166)
 - [드디어 공개된 애플 실리콘의 첫 칩셋 M1](https://seorenn.tistory.com/165)
 - [드디어 애플 실리콘 이벤트가 열리...나?](https://seorenn.tistory.com/164)
 - [Rust의 Generics 맛보기](https://seorenn.tistory.com/163)
@@ -12,5 +13,4 @@
 - [macOS에서 SVG 파일을 PNG로 변경하기](https://seorenn.tistory.com/159)
 - [Org Mode에서 노션(Notion)으로 갈아타기](https://seorenn.tistory.com/157)
 - [Flutter에서 애플 앱스토어 업로드 시 최소 버전 표기 문제](https://seorenn.tistory.com/158)
-- [Python Exceptions 간략 정리](https://seorenn.tistory.com/153)
 <!-- BLOG-POST-LIST:END -->
