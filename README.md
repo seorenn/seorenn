@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter의 Widget에서 앱 활성화 여부 파악하기](https://seorenn.tistory.com/167)
 - [SwiftUI macOS 앱에서 타이틀 바와 툴바가 통합된 윈도우 구현하기](https://seorenn.tistory.com/166)
 - [드디어 공개된 애플 실리콘의 첫 칩셋 M1](https://seorenn.tistory.com/165)
 - [드디어 애플 실리콘 이벤트가 열리...나?](https://seorenn.tistory.com/164)
@@ -12,5 +13,4 @@
 - [Doom Emacs에서 Python 개발 환경 설정하기](https://seorenn.tistory.com/160)
 - [macOS에서 SVG 파일을 PNG로 변경하기](https://seorenn.tistory.com/159)
 - [Org Mode에서 노션(Notion)으로 갈아타기](https://seorenn.tistory.com/157)
-- [Flutter에서 애플 앱스토어 업로드 시 최소 버전 표기 문제](https://seorenn.tistory.com/158)
 <!-- BLOG-POST-LIST:END -->
