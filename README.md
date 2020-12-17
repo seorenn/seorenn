@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Xcode 12.3에서 발생하는 Fat Framework 링크 오류 문제](https://seorenn.tistory.com/177)
 - [터미널에서 Doom Emacs의 복사가 동작 안 하는 문제](https://seorenn.tistory.com/175)
 - [구글과 사회적 거리두기](https://seorenn.tistory.com/176)
 - [SwiftUI의 PreviewProvider와 Binding](https://seorenn.tistory.com/174)
@@ -12,5 +13,4 @@
 - [M1의 성능은 정말 정말이었다](https://seorenn.tistory.com/171)
 - [Xcode의 부산물(?) 청소 쉽게 하기](https://seorenn.tistory.com/169)
 - [M1의 성능은 정말이었다](https://seorenn.tistory.com/168)
-- [Flutter의 Widget에서 앱 활성화 여부 파악하기](https://seorenn.tistory.com/167)
 <!-- BLOG-POST-LIST:END -->
