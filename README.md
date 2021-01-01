@@ -3,7 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [알림의 홍수 속에서 견디기](https://seorenn.tistory.com/179)
+- [알림의 홍수를 견디며 살아가기](https://seorenn.tistory.com/179)
 - [애플이 Corellium에 건 소송에서 패소하다](https://seorenn.tistory.com/178)
 - [Xcode 12.3에서 발생하는 Fat Framework 링크 오류 문제](https://seorenn.tistory.com/177)
 - [터미널에서 Doom Emacs의 복사가 동작 안 하는 문제](https://seorenn.tistory.com/175)
