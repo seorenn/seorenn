@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [신형 맥북프로에 관한 루머](https://seorenn.tistory.com/183)
 - [macOS에서 gccemacs 설치하기(feat. emacs-plus)](https://seorenn.tistory.com/182)
 - [iOS 시뮬레이터의 이상한 노란색(?) 문제](https://seorenn.tistory.com/181)
 - [SwiftUI에서 경고 팝업(Alert) 표시하기](https://seorenn.tistory.com/180)
@@ -12,5 +13,4 @@
 - [터미널에서 Doom Emacs의 복사가 동작 안 하는 문제](https://seorenn.tistory.com/175)
 - [구글과 사회적 거리두기](https://seorenn.tistory.com/176)
 - [SwiftUI의 PreviewProvider와 Binding](https://seorenn.tistory.com/174)
-- [불행히도 M1이 웹 앱의 약세를 부르지는 않을 것이다](https://seorenn.tistory.com/173)
 <!-- BLOG-POST-LIST:END -->
