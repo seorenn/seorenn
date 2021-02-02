@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2021년 2월 1일자 앱스토어 리뷰 가이드라인 업데이트](https://seorenn.tistory.com/184)
 - [신형 맥북프로에 관한 루머](https://seorenn.tistory.com/183)
 - [macOS에서 gccemacs 설치하기(feat. emacs-plus)](https://seorenn.tistory.com/182)
 - [iOS 시뮬레이터의 이상한 노란색(?) 문제](https://seorenn.tistory.com/181)
@@ -12,5 +13,4 @@
 - [Xcode 12.3에서 발생하는 Fat Framework 링크 오류 문제](https://seorenn.tistory.com/177)
 - [터미널에서 Doom Emacs의 복사가 동작 안 하는 문제](https://seorenn.tistory.com/175)
 - [구글과 사회적 거리두기](https://seorenn.tistory.com/176)
-- [SwiftUI의 PreviewProvider와 Binding](https://seorenn.tistory.com/174)
 <!-- BLOG-POST-LIST:END -->
