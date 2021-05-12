@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [gccemacs를 (당분간) 포기했다](https://seorenn.tistory.com/192)
 - [2021년 4월 애플 이벤트 간략 정리](https://seorenn.tistory.com/191)
 - [애플 4월 21일 깜짝 이벤트](https://seorenn.tistory.com/190)
 - [앱스토어 업로드 시 ITMS-90034 문제](https://seorenn.tistory.com/189)
@@ -12,5 +13,4 @@
 - [2021년 2월 1일자 앱스토어 리뷰 가이드라인 업데이트](https://seorenn.tistory.com/184)
 - [신형 맥북프로에 관한 루머](https://seorenn.tistory.com/183)
 - [macOS에서 gccemacs 설치하기(feat. emacs-plus)](https://seorenn.tistory.com/182)
-- [iOS 시뮬레이터의 이상한 노란색(?) 문제](https://seorenn.tistory.com/181)
 <!-- BLOG-POST-LIST:END -->
