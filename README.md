@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [아직은 절망스러운(?) Xcode 13 Beta의 Vim 모드](https://seorenn.tistory.com/195)
 - [Apple WWDC21 6월 7일 개최](https://seorenn.tistory.com/194)
 - [SwiftUI - self is immutable???](https://seorenn.tistory.com/193)
 - [SwiftUI View Custom Initializer](https://seorenn.tistory.com/186)
@@ -12,5 +13,4 @@
 - [앱스토어 업로드 시 ITMS-90034 문제](https://seorenn.tistory.com/189)
 - [M1은 사후 업그레이드가 가능하다?](https://seorenn.tistory.com/188)
 - [2021년 6월 7일 WWDC 개최 예정](https://seorenn.tistory.com/187)
-- [어느 날 맥 캘린더 앱에서 오류가 발생하기 시작했다](https://seorenn.tistory.com/185)
 <!-- BLOG-POST-LIST:END -->
