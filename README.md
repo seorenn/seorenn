@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Swift 5.5의 async/await 살펴보기](https://seorenn.tistory.com/196)
 - [아직은 절망스러운(?) Xcode 13 Beta의 Vim 모드](https://seorenn.tistory.com/195)
 - [Apple WWDC21 6월 7일 개최](https://seorenn.tistory.com/194)
 - [SwiftUI - self is immutable???](https://seorenn.tistory.com/193)
@@ -12,5 +13,4 @@
 - [애플 4월 21일 깜짝 이벤트](https://seorenn.tistory.com/190)
 - [앱스토어 업로드 시 ITMS-90034 문제](https://seorenn.tistory.com/189)
 - [M1은 사후 업그레이드가 가능하다?](https://seorenn.tistory.com/188)
-- [2021년 6월 7일 WWDC 개최 예정](https://seorenn.tistory.com/187)
 <!-- BLOG-POST-LIST:END -->
