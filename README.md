@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [오늘도 Xcode에게 졌다](https://seorenn.tistory.com/201)
 - [내 맥을 망가뜨리는 망할 플러그인들](https://seorenn.tistory.com/200)
 - [iTerm에서 한글 자소가 분리되어 보이는 현상](https://seorenn.tistory.com/199)
 - [재배치된 항목 넌 도대체 뭐냐?](https://seorenn.tistory.com/198)
@@ -12,5 +13,4 @@
 - [Apple WWDC21 6월 7일 개최](https://seorenn.tistory.com/194)
 - [SwiftUI - self is immutable???](https://seorenn.tistory.com/193)
 - [SwiftUI View Custom Initializer](https://seorenn.tistory.com/186)
-- [gccemacs를 (당분간) 포기했다](https://seorenn.tistory.com/192)
 <!-- BLOG-POST-LIST:END -->
