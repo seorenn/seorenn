@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI로 액션시트 띄우기 (iOS 15, macOS Monterey)](https://seorenn.tistory.com/207)
 - [SwiftUI에서 경고창(Alert Dialog) 띄우기(iOS 15, macOS Monterey)](https://seorenn.tistory.com/206)
 - [SwiftUI에서 각 플랫폼의 배경색 사용하기](https://seorenn.tistory.com/205)
 - [2021년 9월 14일 애플 이벤트 대충 정리](https://seorenn.tistory.com/204)
@@ -12,5 +13,4 @@
 - [내 맥을 망가뜨리는 망할 플러그인들](https://seorenn.tistory.com/200)
 - [iTerm에서 한글 자소가 분리되어 보이는 현상](https://seorenn.tistory.com/199)
 - [재배치된 항목 넌 도대체 뭐냐?](https://seorenn.tistory.com/198)
-- [Swift 5.5의 Continuation](https://seorenn.tistory.com/197)
 <!-- BLOG-POST-LIST:END -->
