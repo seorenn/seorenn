@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Org Mode 기반 정적 사이트 운영 느낌 정리](https://seorenn.tistory.com/211)
 - [애플 VS 에픽 2차전 - 누군가의 완승이 되나](https://seorenn.tistory.com/212)
 - [새로운 애플실리콘과 맥북 프로가 등장한 애플 이벤트](https://seorenn.tistory.com/209)
 - [UserDefaults 기초 정리](https://seorenn.tistory.com/208)
@@ -12,5 +13,4 @@
 - [2021년 9월 14일 애플 이벤트 대충 정리](https://seorenn.tistory.com/204)
 - [애플 VS 에픽 1차전은 애플의 패배?](https://seorenn.tistory.com/203)
 - [블로그 카테고리를 개편하다](https://seorenn.tistory.com/202)
-- [오늘도 Xcode에게 졌다](https://seorenn.tistory.com/201)
 <!-- BLOG-POST-LIST:END -->
