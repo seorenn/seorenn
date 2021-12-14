@@ -3,6 +3,8 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iOS 15.2 업데이트](https://seorenn.tistory.com/214)
+- [macOS Monterey 12.1 업데이트](https://seorenn.tistory.com/213)
 - [Org Mode 기반 정적 사이트 운영 느낌 정리](https://seorenn.tistory.com/211)
 - [애플 VS 에픽 2차전 - 누군가의 완승이 되나](https://seorenn.tistory.com/212)
 - [새로운 애플실리콘과 맥북 프로가 등장한 애플 이벤트](https://seorenn.tistory.com/209)
@@ -11,6 +13,4 @@
 - [SwiftUI에서 경고창&lpar;Alert Dialog&rpar; 띄우기&lpar;iOS 15, macOS Monterey&rpar;](https://seorenn.tistory.com/206)
 - [SwiftUI에서 각 플랫폼의 배경색 사용하기](https://seorenn.tistory.com/205)
 - [2021년 9월 14일 애플 이벤트 대충 정리](https://seorenn.tistory.com/204)
-- [애플 VS 에픽 1차전은 애플의 패배?](https://seorenn.tistory.com/203)
-- [블로그 카테고리를 개편하다](https://seorenn.tistory.com/202)
 <!-- BLOG-POST-LIST:END -->
