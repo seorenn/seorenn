@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [org-publish에서 탈출하기](https://seorenn.tistory.com/216)
 - [애플도 카카오처럼 &lpar;정말&rpar; 검열을 시도할까?](https://seorenn.tistory.com/215)
 - [iOS 15.2 업데이트](https://seorenn.tistory.com/214)
 - [macOS Monterey 12.1 업데이트](https://seorenn.tistory.com/213)
@@ -12,5 +13,4 @@
 - [UserDefaults 기초 정리](https://seorenn.tistory.com/208)
 - [SwiftUI로 액션시트 띄우기 &lpar;iOS 15, macOS Monterey&rpar;](https://seorenn.tistory.com/207)
 - [SwiftUI에서 경고창&lpar;Alert Dialog&rpar; 띄우기&lpar;iOS 15, macOS Monterey&rpar;](https://seorenn.tistory.com/206)
-- [SwiftUI에서 각 플랫폼의 배경색 사용하기](https://seorenn.tistory.com/205)
 <!-- BLOG-POST-LIST:END -->
