@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [edamagit, vscode용 Magit](https://seorenn.tistory.com/225)
 - [Electron에서 타이틀 바 숨기기 및 창 이동 문제](https://seorenn.tistory.com/221)
 - [Electron의 app 정보를 얻기 위한 삽질기](https://seorenn.tistory.com/220)
 - [Electron에서 iframe 사용하기&lpar;?&rpar;](https://seorenn.tistory.com/219)
@@ -12,5 +13,4 @@
 - [iOS 15.2 업데이트](https://seorenn.tistory.com/214)
 - [macOS Monterey 12.1 업데이트](https://seorenn.tistory.com/213)
 - [Org Mode 기반 정적 사이트 운영 느낌 정리](https://seorenn.tistory.com/211)
-- [애플 VS 에픽 2차전 - 누군가의 완승이 되나](https://seorenn.tistory.com/212)
 <!-- BLOG-POST-LIST:END -->
