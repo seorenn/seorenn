@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [mdutil로 터미널에서 Spotlight 제어하기](https://seorenn.tistory.com/217)
 - [edamagit, vscode용 Magit](https://seorenn.tistory.com/225)
 - [Electron에서 타이틀 바 숨기기 및 창 이동 문제](https://seorenn.tistory.com/221)
 - [Electron의 app 정보를 얻기 위한 삽질기](https://seorenn.tistory.com/220)
@@ -12,5 +13,4 @@
 - [애플도 카카오처럼 &lpar;정말&rpar; 검열을 시도할까?](https://seorenn.tistory.com/215)
 - [iOS 15.2 업데이트](https://seorenn.tistory.com/214)
 - [macOS Monterey 12.1 업데이트](https://seorenn.tistory.com/213)
-- [Org Mode 기반 정적 사이트 운영 느낌 정리](https://seorenn.tistory.com/211)
 <!-- BLOG-POST-LIST:END -->
