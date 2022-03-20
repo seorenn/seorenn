@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [개인정보 넘기지 않기라는 사기&lpar;?&rpar;](https://seorenn.tistory.com/227)
 - [iOS 15.4, macOS 12.3 업데이트](https://seorenn.tistory.com/231)
 - [vscode에서 파일을 새 탭으로만 열리게 하기](https://seorenn.tistory.com/224)
 - [Peek Performance 애플 이벤트 주관적인 정리](https://seorenn.tistory.com/229)
@@ -12,5 +13,4 @@
 - [mdutil로 터미널에서 Spotlight 제어하기](https://seorenn.tistory.com/217)
 - [edamagit, vscode용 Magit](https://seorenn.tistory.com/225)
 - [Electron에서 타이틀 바 숨기기 및 창 이동 문제](https://seorenn.tistory.com/221)
-- [Electron의 app 정보를 얻기 위한 삽질기](https://seorenn.tistory.com/220)
 <!-- BLOG-POST-LIST:END -->
