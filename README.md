@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [사심가득 애플소식 - 4월 둘째 주](https://seorenn.tistory.com/240)
 - [Xcode Playground에서 Swift Package 이용하기](https://seorenn.tistory.com/239)
 - [사심가득 애플소식 - 4월 첫 주](https://seorenn.tistory.com/237)
 - [어느 날 Docker에서 Mongo를 띄우다 WiredTiger 오류를 겪었다](https://seorenn.tistory.com/232)
@@ -12,5 +13,4 @@
 - [macOS 12.3.1 그리고 iOS 15.4.1 업데이트](https://seorenn.tistory.com/236)
 - [사심가득 애플소식 - 3월 넷째 주](https://seorenn.tistory.com/234)
 - [Scratchpads - 긴급&lpar;?&rpar; 메모 작성용 vscode 플러그인](https://seorenn.tistory.com/226)
-- [개인정보 넘기지 않기라는 사기&lpar;?&rpar;](https://seorenn.tistory.com/227)
 <!-- BLOG-POST-LIST:END -->
