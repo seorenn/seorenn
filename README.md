@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter에서 Debug 혹은 Release 모드 판단하기](https://seorenn.tistory.com/241)
 - [사심가득 애플소식 - 4월 둘째 주](https://seorenn.tistory.com/240)
 - [Xcode Playground에서 Swift Package 이용하기](https://seorenn.tistory.com/239)
 - [사심가득 애플소식 - 4월 첫 주](https://seorenn.tistory.com/237)
@@ -12,5 +13,4 @@
 - [Electron 앱의 창 위치 및 크기 기억하기](https://seorenn.tistory.com/230)
 - [macOS 12.3.1 그리고 iOS 15.4.1 업데이트](https://seorenn.tistory.com/236)
 - [사심가득 애플소식 - 3월 넷째 주](https://seorenn.tistory.com/234)
-- [Scratchpads - 긴급&lpar;?&rpar; 메모 작성용 vscode 플러그인](https://seorenn.tistory.com/226)
 <!-- BLOG-POST-LIST:END -->
