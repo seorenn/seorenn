@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [M2 맥북프로 SSD 속도 등 한 주간의 애플 소식](https://seorenn.tistory.com/260)
 - [카플레이 주목 등 한 주간의 애플 소식](https://seorenn.tistory.com/258)
 - [WWDC 버프&lpar;?&rpar;가 가득한 애플 소식](https://seorenn.tistory.com/255)
 - [애플 WWDC22 키노트 간단히 정리](https://seorenn.tistory.com/253)
@@ -12,5 +13,4 @@
 - [macOS 12.4, iOS 15.5 업데이트](https://seorenn.tistory.com/250)
 - [사심가득 애플소식 - 5월 둘째 주](https://seorenn.tistory.com/247)
 - [사심가득 애플소식 - 5월 첫째 주](https://seorenn.tistory.com/246)
-- [WKWebView에서 Page Down 구현하기](https://seorenn.tistory.com/245)
 <!-- BLOG-POST-LIST:END -->
