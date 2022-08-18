@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS 12.5.1, iOS 15.6.1, iPadOS 15.6.1 업데이트](https://seorenn.tistory.com/268)
 - [iOS 16 새로운 소식 외 한 주간의 애플 소식들](https://seorenn.tistory.com/267)
 - [iOS Files 앱 개선 외 한 주간의 애플 소식들](https://seorenn.tistory.com/266)
 - [한 주간의 애플 관련 소식](https://seorenn.tistory.com/265)
@@ -12,5 +13,4 @@
 - [M2 기반 여러 맥 준비 외 한 주간의 애플 소식](https://seorenn.tistory.com/261)
 - [맥에서 별도의 앱 없이 favicon&lpar;.ico&rpar; 만들기](https://seorenn.tistory.com/259)
 - [M2 맥북프로 SSD 속도 등 한 주간의 애플 소식](https://seorenn.tistory.com/260)
-- [카플레이 주목 등 한 주간의 애플 소식](https://seorenn.tistory.com/258)
 <!-- BLOG-POST-LIST:END -->
