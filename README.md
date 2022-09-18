@@ -3,6 +3,7 @@
 ### Lastest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [업데이트 관련 소식 등 한 주간의 애플 소식들](https://seorenn.tistory.com/274)
 - [Swift 5.7 변경사항 외 한 주간의 애플 소식들](https://seorenn.tistory.com/273)
 - [애플 아이폰 14 시리즈 등 신제품 발표](https://seorenn.tistory.com/272)
 - [웹킷 소식 외 한 주간의 애플 소식들](https://seorenn.tistory.com/271)
@@ -12,5 +13,4 @@
 - [iOS 16 새로운 소식 외 한 주간의 애플 소식들](https://seorenn.tistory.com/267)
 - [iOS Files 앱 개선 외 한 주간의 애플 소식들](https://seorenn.tistory.com/266)
 - [한 주간의 애플 관련 소식](https://seorenn.tistory.com/265)
-- [OS 업데이트 외 한 주간의 애플 소식](https://seorenn.tistory.com/264)
 <!-- BLOG-POST-LIST:END -->
